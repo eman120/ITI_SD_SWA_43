@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1669200714 source:h:\iti sd swa\sd(pd, swa) 43\7-ds\d01\task\formlinkedlist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iostream>
+
