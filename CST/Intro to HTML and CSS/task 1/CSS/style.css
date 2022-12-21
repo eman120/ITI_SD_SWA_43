@@ -1,0 +1,65 @@
+body {
+    background-color: pink;
+}
+#welcomeParagraph{
+    font-family:Lucida Handwriting;
+    /* font-family: Brush Script MT;  */
+    text-align: right;
+    color: #ee087b;
+    font-weight: bold;
+    /* font-size: 30px; */
+}
+#enterImage{
+    /* display: flex;
+   justify-content: center; */
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+
+.alignCenter{
+    text-align: center;
+}
+.marginTop{
+    margin-top: 30px;
+}
+
+#diffFont{
+    font-family:Lucida Sans;
+}
+#diffSize{
+    font-size: 15px;
+}
+#diffColor{
+    color: red;
+}
+#footLeft {
+    position: fixed;
+    bottom: 30px;
+    left: 10px;
+}
+#footRight{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
+#mailImage{
+    /* display: flex;
+   justify-content: center; */
+    display: block;
+    margin: auto;
+    margin-top: 30;
+    width: 10%;
+}
+
+#imageMap{
+    display: block;
+    margin: auto;
+}
+
+#copyright {
+	bottom: 0px;
+	width: 100%;
+    margin: 0;
+}

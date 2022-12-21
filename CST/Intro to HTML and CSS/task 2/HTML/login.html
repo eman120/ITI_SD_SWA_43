@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LogIn Form</title>
+        <link href="../CSS/style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <form>
+            <fieldset>
+                <legend>Log In</legend>
+                <label for="uName">User Name</label>
+                <input name = "uName" type = "text" placeholder="Enter your User name here!"/>
+                <label for="pass">Password</label>
+                <input name= "pass" type = "password"/>
+                <label for="select">Select Your Location: </label>
+                <select name="select">
+                    <optgroup label="Africa">
+                        <option>Egypt</option>
+                        <option>Sudan</option>
+                        <option>Namibia</option>
+                    </optgroup>
+                    <optgroup label="Europe">
+                        <option>France</option>
+                        <option>Russia</option>
+                        <option>UK</option>
+                    </optgroup>
+                    <optgroup label="North America" disabled>
+                        <option>Canada</option>
+                        <option>Mexico</option>
+                        <option>USA</option>
+                    </optgroup>
+                </select>
+                <input type="checkbox" accesskey="m"/>
+                <label for="remeberBox">Remeber<u>M</u>e</label>
+                <div>
+                    <input type="button" value="login"/>
+                </div>
+            </fieldset>
+        </form>
+    </body>
+</html>

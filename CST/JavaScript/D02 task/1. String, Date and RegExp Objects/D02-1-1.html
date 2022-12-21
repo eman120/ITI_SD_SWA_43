@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<head>
+    <title>
+        Day 2-1-1 Char in String
+    </title>
+</head>
+
+<body>
+    <script>
+        var input = prompt("Enter a string : ", "Apple");
+        var inputChar = prompt("Enter a character : ", "A");
+        var charCase = confirm("Consider difference between letter cases?"); //OK (true) or Cancel (false) 
+        var header;
+        var count =0;
+        if(charCase)
+        {
+            checkCharInString(input);
+        }
+        else // ignore case
+        {
+            checkCharInString(input.toLowerCase());
+        }
+        function checkCharInString (arr)
+        {
+            for (var i = 0; i < input.length; i++) {
+                if (inputChar == input[i]) {
+                    count ++;
+                }
+            }
+            if (count > 0) {
+                header = "<h6>" + "Letter " + inputChar + " Exists " + count + " Times" + "</h6>";
+                document.write(header);
+            }
+            else {
+                header = "<h6>" + "Letter " + inputChar + " Not Exists" + "</h6>";
+                document.write(header);
+            }
+        }
+    </script>
+</body>
+
+</html>
