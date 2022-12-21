@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667303268 source:h:\iti sd swa\sd(pd, swa) 43\3-oop\d04\task\complexoperators\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<cstring>
+	<sstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667573732 source:h:\iti sd swa\sd(pd, swa) 43\3-oop\d07\task\graphicsabajourapictureclass\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<conio.h>
+
