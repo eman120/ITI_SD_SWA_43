@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page website application with a menu </title>
+
+    <link rel="stylesheet" href="style.css">
+    <script defer src="jquery.js"></script>
+    <script defer src="script.js"></script>
+    
+</head>
+<body>
+    <div id="div1">
+        <button value="About" class="btns" id="about">About</button>
+        <button value="Gallary"class="btns" id="gallary">Gallary</button>
+        <button value="Services"class="btns" id="services">Services</button>
+        <button value="Complain"class="btns" id="complain">Complain</button>
+    </div>
+
+    <div id="aboutDiv"></div>
+
+    <div id="gallaryDiv">
+        <img src="Images/left.png" id="left" class="arrow"/>
+        <img src="Images/1.jpg" id="image"/>
+        <img src="Images/right.png" id="right" class="arrow"/>
+    </div>
+    
+    
+    <div id="servicesDiv">
+       <div class="items">item #1</div>
+       <div class="items">item #2</div>
+       <div class="items">item #3</div>
+   </div>
+   
+    <div id="complainDiv">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name">
+        <br>
+        <label for="name">Email</label>
+        <input type="email" name="email" id="email">
+        <br>
+        <label for="name">Phone</label>
+        <input type="text" name="phone" id="phone">
+        <br>
+        <label for="Complain">Complain</label>
+        <textarea name="complain" id="complainText" rows="4" cols="50"></textarea>
+
+        <button value="send" id="send">Send</button>
+    </div>
+
+    <div id="complainValues">
+        <span>Your complain is </span>
+        <span id="comp"></span>
+        <br>
+        <span>Your name is </span>
+        <span id="nam"></span>
+        <br>
+        <span>Your Email is </span>
+        <span id="ema"></span>
+        <br>
+        <span>Your Phone is </span>
+        <span id="pho"></span>
+        <br>
+        <button value="edit" id="edit">Back to Edit</button>
+    </div>
+
+</body>
+</html>

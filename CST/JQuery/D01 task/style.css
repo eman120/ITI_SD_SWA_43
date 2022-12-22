@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+}
+
+.btns{
+    width: 150px;
+    height: 70px;
+    border:0ch;
+    border-bottom:5px;
+    color: white;
+    background-color: rgb(248, 119, 179);
+    border-bottom-color:rgb(207, 99, 150);
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 0 9px 9px 0 rgb(201, 187, 187);
+    font-size: 30px;
+    font-style: italic;
+}
+
+.btns:active {
+    background-color: violet;
+    border-bottom-color:rgb(209, 113, 209);
+    /*box-shadow: 0 5px 9px 0 rgb(201, 187, 187);*/
+    transform: translateY(4px);
+}
+
+#complainDiv{
+    display: none;
+}
+
+#complainValues{
+    display: none;
+}
+
+#servicesDiv{
+    display: none;
+    margin-left: 50.5%;
+    margin-top: 0.35%;
+}
+
+#gallaryDiv
+{
+    display: none; 
+}
+
+.items{
+    width: 150px;
+    height: 70px;
+    border:0ch;
+    border-bottom:5px;
+    color: white;
+    background-color: rgb(248, 119, 179);
+    border-bottom-color:rgb(207, 99, 150);
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 0 9px 9px 0 rgb(201, 187, 187);
+    font-size: 30px;
+    font-style: italic;
+}
+
+.arrow{
+    width: 50px;
+}
+
+#image{
+    margin-top: 10%;
+    width: 200px;
+    height: 200px;
+}
+
+/*#div1
+{
+    text-align: center;
+}*/
+
+
+/*
+#aboutDiv {
+    text-align: center;
+}*/
+ 
