@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#btn{
+    position: absolute;
+    margin-top: 10%;
+    left:40%;
+    padding: 5px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20%;
+}
+#btn:hover{
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    box-shadow: rgba(0, 0, 0, 0.319) 0px 30px 50px 5px;
+}
