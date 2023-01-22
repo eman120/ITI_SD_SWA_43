@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\bin\Debug\net7.0\ConsoleApp3.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\refint\ConsoleApp3.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ConsoleApp3.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 2\D02 task\ConsoleApp3\obj\Debug\net7.0\ref\ConsoleApp3.dll
