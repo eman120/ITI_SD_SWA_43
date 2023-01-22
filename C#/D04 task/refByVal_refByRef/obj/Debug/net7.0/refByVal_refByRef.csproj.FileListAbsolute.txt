@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\bin\Debug\net7.0\refByVal_refByRef.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\bin\Debug\net7.0\refByVal_refByRef.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\bin\Debug\net7.0\refByVal_refByRef.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\bin\Debug\net7.0\refByVal_refByRef.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\bin\Debug\net7.0\refByVal_refByRef.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refint\refByVal_refByRef.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\refByVal_refByRef.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 4\D04 task\refByVal_refByRef\obj\Debug\net7.0\ref\refByVal_refByRef.dll
