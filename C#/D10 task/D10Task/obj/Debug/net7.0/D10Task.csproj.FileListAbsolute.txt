@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\bin\Debug\net7.0\D10Task.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\bin\Debug\net7.0\D10Task.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\bin\Debug\net7.0\D10Task.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\bin\Debug\net7.0\D10Task.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\bin\Debug\net7.0\D10Task.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\refint\D10Task.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\D10Task.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 10\D10 task\D10Task\obj\Debug\net7.0\ref\D10Task.dll
