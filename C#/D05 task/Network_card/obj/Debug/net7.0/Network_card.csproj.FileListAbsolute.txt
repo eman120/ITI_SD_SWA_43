@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\bin\Debug\net7.0\Network_card.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\bin\Debug\net7.0\Network_card.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\bin\Debug\net7.0\Network_card.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\bin\Debug\net7.0\Network_card.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\bin\Debug\net7.0\Network_card.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\refint\Network_card.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\Network_card.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Network_card\obj\Debug\net7.0\ref\Network_card.dll

@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\bin\Debug\net7.0\MathOPerations.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\bin\Debug\net7.0\MathOPerations.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\bin\Debug\net7.0\MathOPerations.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\bin\Debug\net7.0\MathOPerations.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\bin\Debug\net7.0\MathOPerations.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\refint\MathOPerations.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\MathOPerations.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Math\obj\Debug\net7.0\ref\MathOPerations.dll

@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\bin\Debug\net7.0\Duration.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\bin\Debug\net7.0\Duration.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\bin\Debug\net7.0\Duration.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\bin\Debug\net7.0\Duration.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\bin\Debug\net7.0\Duration.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\refint\Duration.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\Duration.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 5\D05 task\Duration\obj\Debug\net7.0\ref\Duration.dll
