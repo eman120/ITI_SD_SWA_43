@@ -1,0 +1,15 @@
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\bin\Debug\net7.0\Examination_System.exe
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\bin\Debug\net7.0\Examination_System.deps.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\bin\Debug\net7.0\Examination_System.runtimeconfig.json
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\bin\Debug\net7.0\Examination_System.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\bin\Debug\net7.0\Examination_System.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.csproj.AssemblyReference.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.AssemblyInfoInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.AssemblyInfo.cs
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.csproj.CoreCompileInputs.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\refint\Examination_System.dll
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.pdb
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\Examination_System.genruntimeconfig.cache
+H:\ITI SD SWA\SD(PD, SWA) 43\17-C#\Day 7\D07 task\Examination_System\obj\Debug\net7.0\ref\Examination_System.dll
