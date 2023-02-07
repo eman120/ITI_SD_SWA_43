@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+</head>
+
+<body>
+    <script>
+        var params = window.location.search;
+
+        var paramsSplit = params.substring(1).replace(/\+*/ , "").replace(/\%40/, "@").split("&");
+        var fname = paramsSplit[0].split("=");
+        var lname = paramsSplit[1].split("=");
+        var gender = paramsSplit[2].split("=");
+        var address = paramsSplit[3].split("=");
+        var phone = paramsSplit[4].split("=");
+        var email = paramsSplit[5].split("=");
+        var job = paramsSplit[7].split("=");
+
+
+
+        var Elem = document.getElementsByTagName("body");
+        Elem[0].innerHTML = "<h1 style='text-align: center;'>Welcome To our Page </h1>"+"<h3> your name is:" + fname[1].concat(" " + lname[1]) + "</h3>" + "<h3> your Gender is :" + gender[1] + "</h3>" + "<h3> your address is :" + address[1] + "</h3>" + "<h3> your phone number is:" + phone[1] + "</h3>" + "<h3> your email is:" + email[1] + "</h3>" + "<h3> your job is:" + job[1] + "</h3>";
+
+
+    </script>
+
+</body>
+
+</html>

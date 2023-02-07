@@ -1,0 +1,25 @@
+div {
+    height: 300px;
+    width: 300px;
+    border: solid;
+    border-color: red;
+    }
+
+#l_img{
+    margin-left: 0px;
+    margin-top:120px;
+    position:absolute;
+    left : 11 px ;
+}
+#r_img{
+    margin-left: 255px;
+    margin-top:120px;
+    position:absolute;
+    left : 11 px ;
+}
+#b_img{
+    margin-left: 140px;
+    margin-top:260px;
+    position:absolute;
+    top : 11 px ;
+}

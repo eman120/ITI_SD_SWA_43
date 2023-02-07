@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="MovingPic.js"></script>
+    <title>Moving pics</title>
+    <link rel="stylesheet" href="MovingPic.css">
+</head>
+<body onload="init()">
+    <div>
+        <img src="icon2.gif" id="r_img">
+        <img src="icon1.gif" id="l_img">
+        <img src="TOP.JPG" id="b_img" width="40px">
+
+    </div>
+    <br>
+    <input type="button" value="go" id="state" onclick="state_fun()">
+    <input type="button" value="reset" id="reset" onclick="reset_pos()">
+    <br>
+    <br>
+    <label id = "label1" style="color: blue;"> </label>
+    <br>
+    <label id = "label2" style="color: blue;"> </label>
+    <br>
+    <label id = "label3" style="color: blue;"> </label>
+    
+
+
+</body>
+</html>
