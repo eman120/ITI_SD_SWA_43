@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Day 2-1-2 palindrome
+    </title>
+</head>
+
+<body>
+    <script>
+        var input = prompt("Enter a string : ", "Apple");
+        var charCase = confirm("Consider difference between letter cases?"); //OK (true) or Cancel (false) 
+        var header;
+        var flag = true ;
+        if(charCase)
+        {
+            checkPalindrome(input);         
+        }
+        else // ignore case
+        {
+            checkPalindrome(input.toLowerCase());
+        }
+
+        function checkPalindrome (arr)
+        {
+            if (input.length % 2 == 0)
+            {
+                for (var i = 0; i < Math.floor(arr.length/2); i++) {
+                    if (!(arr[i] == arr[arr.length -1 - i])){
+                        flag  = false;
+                    }
+                }
+                if (flag) {
+                    header = "<h6>" + "String " + arr + " is palindrome" + "</h6>";
+                    document.write(header);
+                }
+                else {
+                    header = "<h6>" + "String " + arr + " is not palindrome" + "</h6>";
+                    document.write(header);
+                } 
+            }
+            else{
+                header = "<h6>" + "String " + arr + " is not palindrome" + "</h6>";
+                document.write(header);
+            }
+        }
+    </script>
+</body>
+
+</html>
