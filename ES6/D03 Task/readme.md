@@ -24,7 +24,7 @@ create a dynamic object using Proxy such that it has only the following properti
  age property that accepts numerical value between 25 and 60
 
 
-![Promise](https://user-images.githubusercontent.com/76956637/218323004-265d2218-0f4e-412d-b2a0-f8cb20e2e76b.png)
+![Proxy](https://user-images.githubusercontent.com/76956637/218323005-abd03a26-25b1-4672-ad12-750406568ec7.png)
 
 
 ## 3) Promise
@@ -35,5 +35,5 @@ create a dynamic object using Proxy such that it has only the following properti
 
  Display its output in a table style your website via bootstrap
 
+![Promise](https://user-images.githubusercontent.com/76956637/218323004-265d2218-0f4e-412d-b2a0-f8cb20e2e76b.png)
 
-![Proxy](https://user-images.githubusercontent.com/76956637/218323005-abd03a26-25b1-4672-ad12-750406568ec7.png)
