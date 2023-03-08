@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    @{
+        var imgPath = "images/" + Request["imgList"];
+        var fontColor = Request["fontList"];
+    }
+    <div style="background-image:url('/Greeting Card Maker/backgrounds/11.jpg') ; text-align :center ; color:@fontColor">
+
+        @if (Request["greet"] == "birthday")
+        {
+            <h1>Happy Birthday!!!!!!</h1>
+        }
+        else if (Request["greet"] == "GetWellSoon")
+        {
+            <h1>Get well soon!!!!!!</h1>
+        }
+        else if (Request["greet"] == "Valentine")
+        {
+            <h1>Happy Valentine's day!!!!!!</h1>
+        }
+        else if (Request["greet"] == "Congrats")
+        {
+            <h1>Congratulations!!!!!!</h1>
+        }
+
+
+        @if (Request["check"] != null)
+        {
+            <img src="@imgPath" />
+        }
+
+        <h1>@Request["message"]</h1>
+    </div>
+</body>
+</html>

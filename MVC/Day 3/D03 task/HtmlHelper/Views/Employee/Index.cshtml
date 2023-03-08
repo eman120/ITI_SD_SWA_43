@@ -1,0 +1,28 @@
+﻿@using HtmlHelper.Models;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@*@{
+    Layout = null;
+}*@
+
+@helper OrderedList(string[] words)
+{
+    <ol>
+        @foreach (string word in words)
+        {
+            <li>@word</li>
+
+        }
+    </ol>
+}
+<h2>Index</h2>
+
+
+<div>
+    @OrderedList(new string[] { "Delhi", "Punjab", "Assam", "Bihar" })
+
+</div>

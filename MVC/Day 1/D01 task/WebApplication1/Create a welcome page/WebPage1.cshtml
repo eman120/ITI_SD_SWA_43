@@ -1,0 +1,37 @@
+﻿@using System.Globalization
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div>
+        
+            <h1 style="color:red"> Hello @Request["name"]</h1>
+            <h1 style="color:blue">
+                Your birthday is:
+
+                @{
+                    string birthdateString = Request["birthdate"];
+                    DateTime birthdate;
+                    if (DateTime.TryParse(birthdateString, out birthdate))
+                    {
+                        <p>Birthdate: @birthdate.ToString("dd/MM/yyyy")</p>
+                    }
+                }
+
+                </h1>
+            <br />
+            @if (Request["check"] != null)
+            {
+                <p>YESSS,Am Graduated</p>
+            }
+            else
+            {
+                <p>NOOOO,Am not Graduated</p>
+            }
+
+            @*if(&& Request["check"].Equals("on"))*@
+        </div>
+</body>
+</html>

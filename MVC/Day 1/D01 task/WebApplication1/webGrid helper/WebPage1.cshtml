@@ -1,0 +1,41 @@
+﻿@using WebApplication1.webGrid_helper
+@*@using Microsoft.Web.Helpers;*@
+
+@*@using Recaptcha.Web
+    @using Recaptcha.Web.Mvc*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div style="background-color: red ; width:400px ; height:400px">
+        @{
+            List<Product> products = new List<Product>()
+    {
+                new Product(){ID = 1 , Name = "Product-1" , Price = 100},
+                new Product(){ID = 2 , Name = "Product-2" , Price = 200},
+                new Product(){ID = 3 , Name = "Product-3" , Price = 300},
+                new Product(){ID = 4 , Name = "Product-4" , Price = 400},
+            };
+            WebGrid grid = new WebGrid(products);
+
+        }
+        @grid.GetHtml();
+
+    </div>
+
+    @*<div style="background-color:aqua ; width:400px ; height:400px">
+
+        @{ 
+            WebImage image = new WebImage("images/sample_640×426.bmp");
+            image.Resize(400, 400);
+            image.RotateRight();
+            image.Write();
+
+        }
+    </div>*@
+
+</body>
+</html>

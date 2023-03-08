@@ -1,0 +1,21 @@
+﻿@using WebApplication1.Models;
+
+@{
+    ViewBag.Title = "UpdateCar";
+    Car car = ViewBag.SelectedCar;
+}
+
+<h2>UpdateCar</h2>
+
+@* action="/Controller name/Action name" *@
+
+<form action="/Car/SaveUpdateCar" method="post">
+    <input type="text" name="id" value="@car.Num" />
+    <input type="text" name="color" value="@car.Color" />
+    <input type="text" name="Model" value="@car.Model" />
+    <input type="text" name="Manfacture" value="@car.Manfacture" />
+
+    <input type="submit" value="Save" />
+</form>
+
+<a href="/Car/GetAllCars">Back to List</a>

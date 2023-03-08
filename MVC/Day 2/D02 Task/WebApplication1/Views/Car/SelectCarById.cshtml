@@ -1,0 +1,15 @@
+﻿@using WebApplication1.Models;
+
+@{
+    ViewBag.Title = "SelectCarById";
+    Car car = ViewBag.SelectedCar;
+}
+
+<h2>Select Car By Id</h2>
+
+<h4>Num : @car.Num</h4>
+<h4>Color : <span style="color:@car.Color">@car.Color</span></h4>
+<h4>Model : @car.Model</h4>
+<h4>Manfacture : @car.Manfacture</h4>
+
+<a href="/Car/GetAllCars">Back to List</a>

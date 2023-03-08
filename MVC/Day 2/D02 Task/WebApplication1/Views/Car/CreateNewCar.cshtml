@@ -1,0 +1,17 @@
+﻿@using WebApplication1.Models;
+@{
+    ViewBag.Title = "CreateNewCar";
+}
+
+<h2>CreateNewCar</h2>
+
+<form action="/Car/SaveNewCar" method="post">
+    <input type="text" name="id" />
+    <input type="text" name="color" />
+    <input type="text" name="Model" />
+    <input type="text" name="Manfacture" />
+
+    <input type="submit" value="Save" />
+</form>
+
+<a href="/Car/GetAllCars">Back to List</a>

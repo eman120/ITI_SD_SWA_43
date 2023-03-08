@@ -1,0 +1,22 @@
+﻿@using ImageAssignment.Models;
+@{
+    ViewBag.Title = "submitForm";
+    Employee emp = ViewBag.Employee;
+}
+
+<form class="rounded-5" action="/Image/submitForm" method="post" style="padding: 20px; height: 500px; background-color: darksalmon; ">
+    <h2>Show Details</h2>
+    <table class="table table-bordered" style=" width: 70%; height: 70%; background-color: white; margin: auto; margin-top: 30px; text-align: center">
+        <tr>
+            <td>Your Id is : @emp.Id</td>
+        </tr>
+        <tr>
+            <td>Your Name is : @emp.Name</td>
+        </tr>
+        <tr>
+            <td><img class="rounded-5" src="@emp.Img" style="width: 50% ; height:50%" /></td>
+        </tr>
+        @*<p>Your Name is : @emp.Name</p>
+            <img src="@emp.Img" style="width: 50% ; height:50%" />*@
+    </table>
+</form>
