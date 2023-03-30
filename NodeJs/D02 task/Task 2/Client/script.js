@@ -1,7 +1,7 @@
 // Fetch the client data from the server
 document.getElementById("showData").addEventListener("click", () => {
   let clientData = "";
-  fetch("http://localhost:7000/showData").then(response => response.json()).then(data => {
+  fetch("/showData").then(response => response.json()).then(data => {
       // Build the HTML string for the client data table
       clientData += `
             <tr>
@@ -21,11 +21,12 @@ document.getElementById("showData").addEventListener("click", () => {
           `;
         }
         
-        window.document.getElementById("clientData").innerHTML = clientData;
+        document.getElementById("clientData").innerHTML = clientData;
       }).catch(error => {
         console.log(error)
     });
   });
+  //http://www.localhost:7000
   
   
   // Retrieve the clientData from local storage

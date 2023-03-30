@@ -67,7 +67,7 @@ http.createServer((req,res)=>{
             clientName = d[1].split("&")[0].replace('+' , ' ');
             mobileAddress = d[2].split("&")[0].replace('+' , ' ');
             email = d[3].toString().split("&")[0].replace('%40' , '@');
-            address = d[4].toString().split("&")[0].replace('+' , ' ').replace('%2C' , ',');
+            address = d[4].toString().split("&")[0].replace("+", " ").replace('%2C' , ',');
             let clientData = { name: clientName, mobile: mobileAddress, email: email, address: address };
 
             ///create new file , if it doesn't exist
