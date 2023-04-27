@@ -1,0 +1,17 @@
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.csproj.AssemblyReference.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.AssemblyInfoInputs.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.AssemblyInfo.cs
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.csproj.CoreCompileInputs.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\bin\Debug\net7.0\TicketsReservation.BL.deps.json
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\bin\Debug\net7.0\TicketsReservation.BL.runtimeconfig.json
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\bin\Debug\net7.0\TicketsReservation.BL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\bin\Debug\net7.0\TicketsReservation.BL.pdb
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\bin\Debug\net7.0\TicketsReservation.DAL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\bin\Debug\net7.0\TicketsReservation.DAL.pdb
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.csproj.CopyComplete
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\refint\TicketsReservation.BL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.pdb
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\TicketsReservation.BL.genruntimeconfig.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.BL\obj\Debug\net7.0\ref\TicketsReservation.BL.dll

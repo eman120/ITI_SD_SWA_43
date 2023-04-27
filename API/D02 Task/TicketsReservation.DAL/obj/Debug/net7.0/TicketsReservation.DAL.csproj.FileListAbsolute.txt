@@ -1,0 +1,14 @@
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\bin\Debug\net7.0\TicketsReservation.DAL.deps.json
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\bin\Debug\net7.0\TicketsReservation.DAL.runtimeconfig.json
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\bin\Debug\net7.0\TicketsReservation.DAL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\bin\Debug\net7.0\TicketsReservation.DAL.pdb
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.csproj.AssemblyReference.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.AssemblyInfoInputs.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.AssemblyInfo.cs
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.csproj.CoreCompileInputs.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\refint\TicketsReservation.DAL.dll
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.pdb
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\TicketsReservation.DAL.genruntimeconfig.cache
+G:\itSD(PD, SWA) 43 cont'd\28-API (Jamal Ali - external)\Day2\D02 Task\TicketsReservation.DAL\obj\Debug\net7.0\ref\TicketsReservation.DAL.dll
