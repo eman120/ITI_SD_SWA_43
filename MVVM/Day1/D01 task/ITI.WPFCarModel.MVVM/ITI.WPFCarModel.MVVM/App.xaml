@@ -1,0 +1,10 @@
+﻿<Application x:Class="ITI.WPFCarModel.MVVM.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ITI.WPFCarModel.MVVM" 
+             xmlns:VM="clr-namespace:ITI.WPFCarModel.MVVM.ViewModel"
+             StartupUri="View/FirstWindow.xaml">
+    <Application.Resources>
+        <VM:FirstViewModel x:Key="FirstVM"></VM:FirstViewModel>
+    </Application.Resources>
+</Application>
