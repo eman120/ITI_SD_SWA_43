@@ -1,0 +1,2 @@
+obj\Debug\net6.0/ProductService.cs \
+obj\Debug\net6.0/ProductServiceGrpc.cs: ../ITI.GrpcInventoryService.Server/Protos/ProductService.proto

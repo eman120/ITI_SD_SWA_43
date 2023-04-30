@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gLA+QDZSjClpP7dLOyqVpt3ZJ2kX3wctQKU8chNyOFs=",
+  "Source": "ITI.GrpcPaymentService.Server",
+  "BasePath": "_content/ITI.GrpcPaymentService.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "G:\\itSD(PD, SWA) 43 cont'd\\32-gRPC\\Day1\\D01 Task\\ITI.OrderingService\\ITI.ApiOrderingService\\ITI.ApiOrderingService.csproj",
+      "Version": 2,
+      "Source": "ITI.ApiOrderingService",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

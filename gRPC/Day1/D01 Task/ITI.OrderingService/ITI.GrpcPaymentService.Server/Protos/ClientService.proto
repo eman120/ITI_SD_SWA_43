@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "ITI.GrpcPaymentService.Server.Protos";
+
+service Payment {
+  rpc CheckBalance (PaymentRequest) returns (PaymentResponse) {}
+}
+
+
+message PaymentRequest {
+  int32 ClientId = 1;
+  int32 Balance = 2;
+}
+
+message PaymentResponse {
+  bool Success = 1;
+}

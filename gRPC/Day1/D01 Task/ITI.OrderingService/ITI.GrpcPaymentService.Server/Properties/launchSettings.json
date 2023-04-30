@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "ITI.GrpcPaymentService.Server": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5085;https://localhost:7185",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

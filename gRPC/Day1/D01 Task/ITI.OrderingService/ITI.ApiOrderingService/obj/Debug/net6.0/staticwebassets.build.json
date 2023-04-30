@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8m0MNdyqeXRCZxU+qsdYi8/aPkiH/5Rb1G2FdlyHMrM=",
+  "Source": "ITI.ApiOrderingService",
+  "BasePath": "_content/ITI.ApiOrderingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

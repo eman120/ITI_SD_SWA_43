@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "ITI.GrpcInventoryService.Server.Protos";
+
+service InventoryProductService {
+	rpc CheckAvailability(ProductReqeust) returns (ProductResponse);
+}
+
+message ProductReqeust {
+	int32 productId = 1;
+}
+
+message ProductResponse {
+	bool InStock =  1;
+}
+
