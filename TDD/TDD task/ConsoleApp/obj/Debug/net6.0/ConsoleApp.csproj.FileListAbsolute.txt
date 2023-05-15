@@ -1,0 +1,45 @@
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\waleed.elwakeel\Desktop\TDD\TDD-Smart\TDD\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+G:\itSD(PD, SWA) 43 cont'd\35-TDD\TDD task\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
